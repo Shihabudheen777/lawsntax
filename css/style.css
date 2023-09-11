@@ -15581,3 +15581,17 @@ html.boxed .rd-navbar--is-clone {
 .post-new * + .post-new-footer {
 	margin-top: 9px;
 }
+
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply some basic styling */
+
+ .marginleft {
+  padding-left: 30px;
+ }
+
+
